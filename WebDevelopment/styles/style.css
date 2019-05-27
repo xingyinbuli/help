@@ -1,0 +1,29 @@
+.first {
+    background-color: red;
+    width: 400px;
+    height: 200px;
+    top: 10px;
+    left: 100px;
+    position: relative;
+}
+
+/* .second {
+    background-color: blue;
+    width: 200px;
+    height: 200px;
+    top: -150px;
+    left: 125px;
+  }
+
+  .third {
+    background-color: pink;
+    width: 200px;
+    height: 300px;
+    top: -375px;
+    left: 250px;
+  } */
+  
+  /* .first, .second, .third {
+    position: relative;
+  } */
+
